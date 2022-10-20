@@ -1,3 +1,7 @@
+[![Python Ubuntu](https://github.com/s1Sharp/nn-research/actions/workflows/Python_Ubuntu.yaml/badge.svg)](https://github.com/s1Sharp/nn-research/actions/workflows/Python_Ubuntu.yaml)
+[![Python Windows](https://github.com/s1Sharp/nn-research/actions/workflows/Python_Windows.yaml/badge.svg)](https://github.com/s1Sharp/nn-research/actions/workflows/Python_Windows.yaml)
+
+
 How to set up environment
 Linux:
 
