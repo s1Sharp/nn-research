@@ -6,7 +6,9 @@ on:
     paths:
       - "!.github/**"
       - ".github/workflows/Python_Windows.yaml"
-      - "./**"
+      - "./src/**"
+      - "./test/**"
+      - "./scripts/**"
   # pull_request:
   #   paths:
   #     - "**"
